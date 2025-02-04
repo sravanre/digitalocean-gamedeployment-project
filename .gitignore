@@ -1,0 +1,7 @@
+*/secretVariable.tfvar
+.terraform/*
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfstate.backup
+\
